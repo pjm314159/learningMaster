@@ -18,7 +18,7 @@
    具体可以上网搜
 ## 答题
    + ### 用claude code和Claude code router搭配上chrome的mcp还有魔搭的免费api就可以全自动答题，对于一些线上考试极为好用 
-     [example]("demo/demo.mp4")
+     [example](demo/demo.mp4)
 ## 校园跑
    + ### 传统法找人5排合力跑，一人一圈
    + ### 科技跑
